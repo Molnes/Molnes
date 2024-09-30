@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi I'm me 👋
+I'm a Master in Informatics student.
+With a bachelor's degree in Computer Science.
 
+### Languages i use
+JS/TS | Go | Rust | Python
+
+### Experience
+Look trough my pinned repositories, or all of my public ones, or don't, I'm not your boss
 <!--
 **Molnes/Molnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
